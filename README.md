@@ -9,7 +9,7 @@ REST API using Flask
 * [Contact](#contact)
 
 ### General info
-API taht locates a laptop friendli cafes around
+API provides an opportunity to search laptop-friendly nearby and to use it in your app.
 
 ### Built With
 - Flask
